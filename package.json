@@ -4,7 +4,7 @@
   "description": "API de filmes e séries",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/server.js",
+    "start": "node dist/app.js",
     "build": "npx tsc",
     "dev": "tsnd src/server.ts"
   },
